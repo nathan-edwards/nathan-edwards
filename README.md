@@ -4,13 +4,13 @@
 
 <br/>
 
-### <div align="center">I'm Nathan, a undergraduate Comp Sci 👨‍💻</div>  
+### <div align="center">I'm Nathan, a undergraduate cs student 👨‍💻</div>  
   
 <br/>
 
 - 🔭 I’m currently working on **Full-Stack Web Dev** & **App Development** projects
 
-- 🌱 I’m currently learning **React Native** & **Machine Learning** 
+- 🌱 I’m currently learning **React Native** & **Backend Development** 
 
 - 😄 Pronouns: He/Him
 
