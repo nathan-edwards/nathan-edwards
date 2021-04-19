@@ -1,9 +1,3 @@
-<div align="center">
-    <img alt="Gif" src="https://media.giphy.com/media/yZJe5xhaKwXQ3ZJflj/giphy.gif" />
-</div>
-
-<br/>
-
 ### <div align="center">I'm Nathan, a undergraduate cs student 👨‍💻</div>  
   
 <br/>
